@@ -1,4 +1,4 @@
-## **Decentralized TrueTime Sync (DTT Sync) ⏳**  
+## **Decentralized TrueTime Sync (DTT Sync)**  
 
 **Decentralized, leaderless time synchronization for blockchain nodes using Hybrid Logical Clocks (HLC) + Decentalized TrueTime (DTT) + Peer-to-Peer (P2P) gossip.**  
 
